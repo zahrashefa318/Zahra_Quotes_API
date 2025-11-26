@@ -18,13 +18,13 @@ Although the API itself is simple (it only returns jokes and quotes), it demonst
 This API is **deployed on Render.com**, a cloud hosting platform designed for modern web services.
 
 **Live API URL:**  
-👉 https://your-render-url-here.onrender.com (replace with your real link)
+👉 https://zahra-quotes-api.onrender.com
 
 **Swagger Docs:**  
-👉 https://your-render-url-here.onrender.com/docs  
+👉 https://zahra-quotes-api.onrender.com/docs  
 
 **ReDoc Docs:**  
-👉 https://your-render-url-here.onrender.com/redoc  
+👉 https://zahra-quotes-api.onrender.com/redoc  
 
 
 ## 🚀 Features
