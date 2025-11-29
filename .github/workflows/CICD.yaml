@@ -31,7 +31,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Deploy to Render
-        uses: render-examples/fastapi 
+        uses: render-examples/fastapi@main 
         
         with:
           render_deploy_hook: ${{ secrets.RENDER_DEPLOY_HOOK_URL }}
