@@ -10,6 +10,7 @@ This is a **tiny FastAPI project built for learning purposes**, but it includes 
 - ⚙️ Environment Variables (.env)  
 - 🧵 Background Task Processing  
 - 🧱 Proper Error Handling and Validation  
+- 🚀 CI/CD Pipeline (Continuous Integration / Continuous Delivery or Deployment)
 
 Although the API itself is simple (it only returns jokes and quotes), it demonstrates **every major backend concept** found in real-world APIs — making it an excellent foundation for professional API development and deployment.
 
